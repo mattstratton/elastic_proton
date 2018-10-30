@@ -1,0 +1,10 @@
+{
+  "*": {
+    "promptValues": {
+      "app": "elastic_proton",
+      "vendor": false,
+      "dep": false,
+      "cobra": false
+    }
+  }
+}
